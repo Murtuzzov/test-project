@@ -1,0 +1,55 @@
+{
+  "salaries": [
+    {
+      "id": 1723781898527,
+      "title": "Developer",
+      "level": "Middle",
+      "basicSalary": 5000,
+      "allowance": 2000,
+      "deductions": 500,
+      "grossSalary": 7000,
+      "netSalary": 6500
+    },
+    {
+      "id": 1723781939606,
+      "title": "Manager",
+      "level": "Junior",
+      "basicSalary": 1200,
+      "allowance": 200,
+      "deductions": 50,
+      "grossSalary": 1400,
+      "netSalary": 1350
+    },
+    {
+      "id": 1723785035287,
+      "title": "dsdvsd",
+      "level": "vsdvds",
+      "basicSalary": 8578,
+      "allowance": 2878,
+      "deductions": 2727,
+      "grossSalary": 11456,
+      "netSalary": 8729
+    },
+    {
+      "id": 1723790780255,
+      "title": "3e3e3",
+      "level": "3e",
+      "basicSalary": 41714,
+      "allowance": 1711,
+      "deductions": 717,
+      "grossSalary": 43425,
+      "netSalary": 42708
+    },
+    {
+      "id": 1723792856298,
+      "title": "rrr",
+      "level": "rrr",
+      "basicSalary": 50000,
+      "allowance": 5000,
+      "deductions": 1000,
+      "grossSalary": 55000,
+      "netSalary": 54000
+    }
+  ],
+  "tax": []
+}
